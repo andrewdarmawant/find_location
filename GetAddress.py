@@ -1,5 +1,3 @@
-# mapIt.py - Launches a map in the browser using an address from the command line
-
 import webbrowser, sys, pyperclip, string
 
 if len(sys.argv) > 1:
